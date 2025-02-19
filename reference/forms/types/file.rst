@@ -141,6 +141,8 @@ These options inherit from the :doc:`FormType </reference/forms/types/form>`:
 
 .. include:: /reference/forms/types/options/row_attr.rst.inc
 
+.. include:: /reference/forms/types/options/constraints.rst.inc
+
 Form Variables
 --------------
 
